@@ -1,3 +1,12 @@
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-TempleEU%2FYTMusicUltimate-181717?style=plastic&logo=github&logoColor=white)](https://github.com/TempleEU/YTMusicUltimate)
+[![Platform](https://img.shields.io/badge/Platform-iOS-000000?style=plastic&logo=apple&logoColor=white)](https://github.com/TempleEU/YTMusicUltimate)
+[![App](https://img.shields.io/badge/App-YouTube%20Music-FF0000?style=plastic&logo=youtubemusic&logoColor=white)](https://github.com/TempleEU/YTMusicUltimate)
+[![Build](https://img.shields.io/badge/Build-GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white)](https://github.com/TempleEU/YTMusicUltimate/actions)
+
+</p>
+
 # YTMusicUltimate
 <p align="center">
 <img src=https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true) />
